@@ -1,0 +1,135 @@
+.card-img-top{
+    height: 23em;
+}
+.foootera a{
+    color: black;
+    text-decoration: none;
+    font-size: 1.25rem;font-weight: 400;font-family: inherit;
+    
+}
+.foootera2 a{
+    color: black;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: inherit;
+    
+}
+.foootera3 a{
+    color: black;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: inherit;
+    
+}
+.foootera4 a{
+    color: black;
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: 400;
+    font-family: inherit;
+    
+}
+.foootera4 p:hover{
+    transform:scaleY(1.6);
+}
+.foootera p:hover{
+    transform: scaleY(1.6);
+}
+     
+.foootera2 p:hover{
+    transform: scaleY(1.6);
+}
+.foootera3 p:hover{
+     transform:scaleY(1.6);
+}
+.foootera2 a:hover{
+    color: black;
+}
+.foootera4 a:hover{
+    color: black;
+}
+.foootera a:hover{
+    color: black;
+}
+.foootera3 a:hover{
+    color: black;
+}
+body{
+   margin: 0%;
+}
+.insidesect{
+    font-family: bottegaveneta-regular-webfont,Arial,sans-serif;
+    font-size: 1.25rem;
+}
+.insidesect a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+.insidesect p:hover{
+    transform: scaleY(1.6);
+}
+.insidesect a:hover{
+    color:white;
+}
+
+.insidesect p{
+    height: 1rem;
+}
+.insidesect1 a{
+    color: white;
+    text-decoration: none;
+}
+.insidesect1 p:hover{
+    transform: scaleY(1.6);
+}
+.insidesect1{
+    font-family: bottegaveneta-regular-webfont,Arial,sans-serif;
+    font-size: 1.25rem;
+    margin-top: 2rem;
+}
+header{
+    position: fixed;
+}
+.butt i:hover{
+    transform: scaleY(1.6);
+}
+.fa-solid fa-magnifying-glass:hover{
+    transform: scaleY(1.6);
+}
+.change-color{
+    color: black;
+}
+::placeholder{
+    color: black;
+    font-family: bottegaveneta-regular-webfont,Arial,sans-serif;
+    font-size: 1.25rem;
+}
+.insidese {
+    display: flex;
+    width: 59%;
+    justify-content: space-around;
+    
+    
+}
+.insidese a{
+    font-family: bottegaveneta-regular-webfont,Arial,sans-serif;
+        font-size: 126%;
+    width: 11%;
+    height: 83%;
+    cursor: pointer;
+}
+.insidese a:hover{
+    transform: scaleY(1.6);
+}
+.insidese p{
+    font-family: bottegaveneta-regular-webfont,Arial,sans-serif;
+        font-size: 126%;
+    width: 11%;
+    height: 83%;
+}
+.card{
+    cursor: pointer;
+}
